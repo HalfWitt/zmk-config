@@ -11,9 +11,6 @@ manifest:
       remote: caksoylar
       revision: split-encoder
       import: app/west.yml
-    - name: zmk
-      remote: zmkfirmware
-      revision: main
       remote: infused-kim
       revision: my-changes/oled-ext-pwr
       import: app/west.yml
